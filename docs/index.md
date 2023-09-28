@@ -5,6 +5,7 @@ layout: home
 hero:
   name: "A Vitepress Site"
   text: "Food Recipes"
+  image: assets/main.jpg
   tagline: "Where Flavor Meets Inspiration: Your Culinary Journey Begins Here!"
   actions:
     - theme: brand

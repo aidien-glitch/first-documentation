@@ -1,10 +1,10 @@
 ---
-title: Coconut Chickpea Chapati Delight with a Guac Surprise
+title: Vegeterian option
 ---
 
-# Coconut Pigeon Pea Chapati Delight with a Guac Surprise !
+# Coconut Pigeon Pea Chapati Delight !
 
-Indulge in a mouthwatering fusion of flavors with our delectable dish. It features a perfectly crafted wheat flatbread, known as chapati, embracing a generous serving of creamy coconut-infused pigeon peas, affectionately referred to as 'mbaazi wa nazi' in Swahili. Complementing this culinary delight is a side of our velvety guacamole. The coconut mbaazi, a cherished staple in Swahili culture, traditionally pairs harmoniously with mahamris, rice or, of course, the ever-beloved chapati.
+Indulge in a mouthwatering fusion of flavors with our delectable dish. It features a perfectly crafted wheat flatbread, known as chapati, embracing a generous serving of creamy coconut-infused pigeon peas, affectionately referred to as 'mbaazi wa nazi' in Swahili. The coconut mbaazi, a cherished staple in Swahili culture, traditionally pairs harmoniously with mahamris, rice or, of course, the ever-beloved chapati.
 
 ## Ingredients
 
@@ -60,7 +60,7 @@ For the coconut mbaazi ...
 
 9.  Repeat this step to the rest of the coil-like dough.
 
-## N.B
+## In conclusion
 This meal is purely vegeterian and serves 3-4 people.
 
 Enjoy!
